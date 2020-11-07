@@ -1,0 +1,23 @@
+INSERT INTO blogful_articles (title, date_published, content)
+VALUES 
+('Zero Enty', now(), 'Some content'),
+('First Enty', now() - '1 Days'::INTERVAL, 'Some content'),
+('Second Enty', now() - '2 Days'::INTERVAL, 'Some content'),
+('Third Enty', now() - '3 Days'::INTERVAL, 'Some content'),
+('Fourth Enty', now() - '4 Days'::INTERVAL, 'Some content'),
+('Fifth Enty', now() - '5 Days'::INTERVAL, 'Some content'),
+('Sixth Enty', now() - '6 Days'::INTERVAL, 'Some content'),
+('Seventh Enty', now() - '7 Days'::INTERVAL, 'Some content'),
+('Eighth Enty', now() - '8 Days'::INTERVAL, 'Some content'),
+('Ninth Enty', now() - '9 Days'::INTERVAL, 'Some content'),
+('Tenth Enty', now() - '10 Days'::INTERVAL, 'Some content'),
+('Eleventh Enty', now() - '11 Days'::INTERVAL, 'Some content'),
+('Twelfth Enty', now() - '12 Days'::INTERVAL, 'Some content'),
+('Thirteenth Enty', now() - '13 Days'::INTERVAL, 'Some content'),
+('Fourteenth Enty', now() - '14 Days'::INTERVAL, 'Some content'),
+('Fifteenth Enty', now() - '15 Days'::INTERVAL, 'Some content'),
+('Sixteenth Enty', now() - '16 Days'::INTERVAL, 'Some content'),
+('Seventeenth Enty', now() - '17 Days'::INTERVAL, 'Some content'),
+('Eighteenth Enty', now() - '18 Days'::INTERVAL, 'Some content'),
+('Nineteenth Enty', now() - '19 Days'::INTERVAL, 'Some content'),
+('Twentyth Enty', now() - '20 Days'::INTERVAL, 'Some content')
